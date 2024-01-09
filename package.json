@@ -1,0 +1,26 @@
+{
+	"name": "@djas420/compare",
+	"version": "0.0.1",
+	"description": "Compare image",
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/Djas420/compare.git"
+	},
+	"keywords": [
+		"compare",
+		"image"
+	],
+	"author": "Djas420",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://gitlab.com/Djas420/compare/issues"
+	},
+	"homepage": "https://djas420.github.io/compare/",
+	"devDependencies": {
+		"eslint": "^8.28.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"stylelint": "^14.15.0",
+		"stylelint-config-rational-order": "^0.1.2",
+		"stylelint-order": "^5.0.0"
+	}
+}
